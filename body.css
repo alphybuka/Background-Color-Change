@@ -1,0 +1,23 @@
+#all {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+
+}
+
+body {
+  position: hidden;
+  margin: 0;
+  padding: 0;
+}
+#btn{
+    align-items: center;
+    font-size: 20px;
+    background-color: black;
+    color: cornsilk;
+}
+.container{
+    text-align: center;
+    height: 50%;
+    padding-top: 25%;
+}
