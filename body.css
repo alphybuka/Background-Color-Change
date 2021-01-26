@@ -22,3 +22,9 @@ body {
     height: 50%;
     padding-top: 20%;
 }
+#btn:hover {
+  background: #fdfdfd;
+  border-color: #ffffff;
+  color: #a7a4a4;
+  border-radius: 10px;
+}
